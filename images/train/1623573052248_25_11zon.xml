@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bass_jpg</folder>
+	<filename>1623573052248_25_11zon.jpg</filename>
+	<path>C:\Users\abi\Documents\bass_jpg\1623573052248_25_11zon.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>181</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_basket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>13</ymin>
+			<xmax>167</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

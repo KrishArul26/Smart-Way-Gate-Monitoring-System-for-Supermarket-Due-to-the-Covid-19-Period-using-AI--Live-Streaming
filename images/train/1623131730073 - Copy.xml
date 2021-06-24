@@ -1,0 +1,38 @@
+<annotation>
+	<folder>bas</folder>
+	<filename>1623131730073 - Copy.jpg</filename>
+	<path>C:\Users\abi\Documents\bas\1623131730073 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>303</width>
+		<height>166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>24</ymin>
+			<xmax>153</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with_basket</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>102</ymin>
+			<xmax>209</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

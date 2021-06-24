@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bas</folder>
+	<filename>1623496165739.jpg</filename>
+	<path>C:\Users\abi\Documents\bas\1623496165739.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>203</width>
+		<height>249</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_basket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>12</ymin>
+			<xmax>196</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

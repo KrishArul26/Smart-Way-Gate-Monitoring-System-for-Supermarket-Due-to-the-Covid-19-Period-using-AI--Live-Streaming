@@ -1,0 +1,26 @@
+<annotation>
+	<folder>basket</folder>
+	<filename>basket6.jpg</filename>
+	<path>C:\Users\ragav\Downloads\basket\basket6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_basket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>34</ymin>
+			<xmax>523</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>
