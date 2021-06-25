@@ -72,6 +72,10 @@ pip install -r requirements.txt
 1. Open terminal. Go into the cloned project directory and type the following command:
 
 ```
+cd Rolling_basket_Mask_Detection_image
+```
+
+```
 python mask_basket_detection.py
 
 ```
