@@ -1,6 +1,7 @@
 <h2 align="center"> Rolling-Basket & Mask-detection-for-Supermarketin Live-Stream-Mask-SSD-Mobilenet-V1</h2>
 
-<h4 align="left">In this project, to detect whether the people are carrying a rolling basket as well as wearing a mask with them into entering the supermarket or else. In case,    a person is not wearing a mask or not carrying a rolling basket with them then The system will generate an alert in terms of sound as well as text as well as it will show the confidence value of the prediction in a live stream. So, If this project integrated with the door opening system then we can control the peoples' automated way to this Covid-19 time.</h4>
+<h4 align="left">Introduction
+Due to covid-19  restriction nowadays peoples have to carry basket as well as they have to wear a mask then only then can enter the inside the supermarket also, this restriction makes sure by the secrurity. So, If we make this process automated way then It will be easy. So, I built a system that will generate an alert in terms of sound and text. Also, it will show the confidence value of the prediction in a live stream. So, If this project integrated with the door opening system then we can control the peoples' automated way to this Covid-19 time..</h4>
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/74568334/123372102-46314c00-d583-11eb-9a6b-efc32d431d92.jpg">
@@ -102,3 +103,4 @@ python mask_basket_detection.py
   <img width="350" src="https://user-images.githubusercontent.com/74568334/123375260-c1493100-d588-11eb-8e85-5cd781ca9162.jpg">
 </p> 
 
+<h4 align="left">In this project, to detect whether the people are carrying a rolling basket as well as wearing a mask with them into entering the supermarket or else. In case,    a person is not wearing a mask or not carrying a rolling basket with them then The system will generate an alert in terms of sound as well as text as well as it will show the confidence value of the prediction in a live stream. So, If this project integrated with the door opening system then we can control the peoples' automated way to this Covid-19 time.</h4>
