@@ -105,4 +105,8 @@ python mask_basket_detection.py
   <img width="350" src="https://user-images.githubusercontent.com/74568334/123375260-c1493100-d588-11eb-8e85-5cd781ca9162.jpg">
 </p> 
 
-<h4 align="left">In this project, to detect whether the people are carrying a rolling basket as well as wearing a mask with them into entering the supermarket or else. In case,    a person is not wearing a mask or not carrying a rolling basket with them then The system will generate an alert in terms of sound as well as text as well as it will show the confidence value of the prediction in a live stream. So, If this project integrated with the door opening system then we can control the peoples' automated way to this Covid-19 time.</h4>
+<h4 align="left">Project Circumstances
+  
+
+In this project, I just collected only 900 overall basket images but in the real, we have to collect more images in the particular domain where we are going to implement this project like Lidl or Aldi So on. Also, focus on different age categories. 
+</h4>
