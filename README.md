@@ -111,12 +111,14 @@ python mask_basket_detection.py
 </p> 
 
 
-<p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/74568334/123377633-8cd77400-d58c-11eb-90ba-c72726623532.jpg">
+<h2 align="left">Project Circumstances</h2>
+
+
+<p align="left">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/123377633-8cd77400-d58c-11eb-90ba-c72726623532.jpg">
 </p> 
 
-<h4 align="left">Project Circumstances
-  
 
-In this project, I just collected only 900 overall basket images but in the real, we have to collect more images in the particular domain where we are going to implement this project like Lidl or Aldi So on. Also, focus on different age categories. 
-</h4>
+<h4 align="left">In this project, I just collected only 900 overall basket images but in the real, we have to collect more images in the particular domain where we are going to implement this project like Lidl or Aldi So on. Also, focus on different age categories.</h4>
+
+
