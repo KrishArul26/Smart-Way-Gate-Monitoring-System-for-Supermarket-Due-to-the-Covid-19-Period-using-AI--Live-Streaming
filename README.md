@@ -114,8 +114,8 @@ python mask_basket_detection.py
 <h2 align="left">Project Circumstances</h2>
 
 
-<p align="left">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/123377633-8cd77400-d58c-11eb-90ba-c72726623532.jpg">
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/74568334/123377633-8cd77400-d58c-11eb-90ba-c72726623532.jpg">
 </p> 
 
 
