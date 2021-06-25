@@ -28,9 +28,9 @@ This project has done up to 60000 epochs with error 0.09 values.Futher, 3100 ima
 
 <p align="center">
   <img width="300" src="https://user-images.githubusercontent.com/74568334/123382231-fc039700-d591-11eb-94b6-fc362fe8ac7d.jpg">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/123382263-04f46880-d592-11eb-821e-3c8e60ecd45c.jpg">
+  <img width="450" src="https://user-images.githubusercontent.com/74568334/123382263-04f46880-d592-11eb-821e-3c8e60ecd45c.jpg">
   <img width="300" src="https://user-images.githubusercontent.com/74568334/123382291-0c1b7680-d592-11eb-8fd6-398c31c8af39.jpg">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/123382312-12115780-d592-11eb-8f3b-77148ffd8602.jpg">
+  <img width="450" src="https://user-images.githubusercontent.com/74568334/123382312-12115780-d592-11eb-8f3b-77148ffd8602.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/123382361-281f1800-d592-11eb-9a9b-d58fafa1194a.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/123382395-31a88000-d592-11eb-9dbc-2e8ddb86c675.jpg">
 </p> 
