@@ -1,6 +1,7 @@
 <h2 align="center"> Rolling-Basket & Mask-detection-for-Supermarketin Live-Stream-Mask-SSD-Mobilenet-V1</h2>
 
-<h4 align="left">Introduction
+<h4 align="left">Introduction\
+  
 Due to covid-19  restriction nowadays peoples have to carry basket as well as they have to wear a mask then only then can enter the inside the supermarket also, this restriction makes sure by the secrurity. So, If we make this process automated way then It will be easy. So, I built a system that will generate an alert in terms of sound and text. Also, it will show the confidence value of the prediction in a live stream. So, If this project integrated with the door opening system then we can control the peoples' automated way to this Covid-19 time..</h4>
 
 <p align="center">
