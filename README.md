@@ -9,7 +9,14 @@
 <h2 align="center"> <span style="color:green">Rolling Basket & Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like SSD-Mobilenet-V1 in order to detect Rolling basket & face masks in real-time video streams.</span></h2>
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/74568334/123372390-bfc93a00-d583-11eb-8a47-0a8d2b93613c.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/123372390-bfc93a00-d583-11eb-8a47-0a8d2b93613c.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/123372387-be980d00-d583-11eb-9abb-f732651f7fd2.jpg">
   
 </p> 
+
+### 📁 Data Collection
+
+This project has done up to 60000 epochs with error 0.09 values.Futher, 3100 images were collected among them 1000 images are without mask, 1200 images are with mask and 900 images are basket.
+* With Mask: 1200
+* Without Mask: 1000
+* Basket: 900
