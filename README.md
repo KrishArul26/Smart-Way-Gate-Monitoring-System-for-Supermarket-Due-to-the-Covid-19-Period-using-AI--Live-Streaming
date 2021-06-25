@@ -24,7 +24,7 @@ This project has done up to 60000 epochs with error 0.09 values.Futher, 3100 ima
 * Without Mask: 1000
 * Basket: 900
 
-### Sample of rolling basket images
+### Sample of basket images
 
 <p align="center">
   <img width="300" src="https://user-images.githubusercontent.com/74568334/123382231-fc039700-d591-11eb-94b6-fc362fe8ac7d.jpg">
