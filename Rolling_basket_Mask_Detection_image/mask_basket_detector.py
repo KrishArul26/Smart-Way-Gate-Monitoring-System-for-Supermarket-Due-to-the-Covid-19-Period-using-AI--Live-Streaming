@@ -139,7 +139,7 @@ def class_selection(scores, classes, image, category_index, boxes):
             cv2.destroyAllWindows()
 
         else:
-            print("Here, There is no detection retaled to mask or not mask")
+            return None
 
-    except:
-        print("Error")
+    except Exception as e:
+        print("Here, There is no detection retaled to mask or not mask", e)
