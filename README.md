@@ -130,6 +130,6 @@ python mask_basket_detection.py
 </p> 
 
 
-<h4 align="left">In this project, I just collected only 900 overall basket images but in the real, we have to collect more images in the particular domain where we are going to implement this project like Lidl or Aldi So on. Also, focus on different age categories.</h4>
+<h4 align="left">In this project, I only collected 900 overall basket images, but in fact, we need to collect more pro-domain images to be implemented in that particular domain, where we are going to implement this project like Lidl or Aldi So on. Also, focus on different age categories.</h4>
 
 
