@@ -1,4 +1,4 @@
-<h2 align="center"> Rolling-Basket & Mask-detection-for-Supermarketin Live-Stream-Mask-SSD-Mobilenet-V1</h2>
+<h2 align="center"> Rolling-Basket & Mask-detection-for-Entering-Supermarket in Live-Stream-Mask-SSD-Mobilenet-V1</h2>
 
 <h4 align="left">Introduction
   
