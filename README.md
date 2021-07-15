@@ -36,7 +36,7 @@ This project has done up to 60000 epochs with error 0.09 values.Futher, 3100 ima
 </p> 
 
 ### 🔑 Prerequisites
-* All the dependencies and required libraries are included in the file [requirements.txt]https://github.com/KrishArul26/Rolling-Basket-Mask-detection-for-Supermarket-using-SSD-MobilenetV1/blob/main/requirements.txt)
+* All the dependencies and required libraries are included in the file [requirements.txt](https://github.com/KrishArul26/Rolling-Basket-Mask-detection-for-Supermarket-using-SSD-MobilenetV1/blob/main/requirements.txt)
 
 * Python 3.6
 
