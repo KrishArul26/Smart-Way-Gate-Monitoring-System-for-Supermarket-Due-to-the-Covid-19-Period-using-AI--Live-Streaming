@@ -3,7 +3,7 @@
 <h4 align="left">Introduction
   
   
-Due to the COVID-19 restriction nowadays people have to carry baskets to enter the supermarket and they have to wear a mask so that they can enter the supermarket, this restriction is ensured by security. So, to make this process easier, I created a system where, first, it would find a man, and then it would find the mask and the basket. Also, this system will generate a warning based on sound and text if people do not carry a basket or without wearing a mask. Also, it will show the reliability value of the prediction in a live stream. So, if this project is integrated with the door opening system, we can control the automatic route of people for this Covid-19 time...</h4>
+<h4 align="left">Due to the COVID-19 restriction nowadays people have to carry baskets to enter the supermarket and they have to wear a mask so that they can enter the supermarket, this restriction is ensured by security. So, to make this process easier, I created a system where, first, it would find a man, and then it would find the mask and the basket. Also, this system will generate a warning based on sound and text if people do not carry a basket or without wearing a mask. Also, it will show the reliability value of the prediction in a live stream. So, if this project is integrated with the door opening system, we can control the automatic route of people for this Covid-19 time...</h4>
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/74568334/123372102-46314c00-d583-11eb-9a6b-efc32d431d92.jpg">
