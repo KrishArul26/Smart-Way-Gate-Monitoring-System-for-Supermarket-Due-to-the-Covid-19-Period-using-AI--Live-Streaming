@@ -8,7 +8,7 @@
   <img width="500" src="https://user-images.githubusercontent.com/74568334/123372102-46314c00-d583-11eb-9a6b-efc32d431d92.jpg">
 </p> 
 
-<h3 align="center"> <span style="color:green">Rolling Basket & Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like SSD-Mobilenet-V1 in order to detect Rolling basket & face masks in real-time video streams.</span></h3>
+<h4 align="center"> <span style="color:green"> Rolling Basket Detection / Face Mask Detection / OpenCV / Keras / TensorFlow / Deep Learning / Computer Vision / Transfer Learning / SSD-Mobilenet-V1 / labelimg / GPU / Google Colab </span></h4>
 
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/123372390-bfc93a00-d583-11eb-8a47-0a8d2b93613c.jpg">
