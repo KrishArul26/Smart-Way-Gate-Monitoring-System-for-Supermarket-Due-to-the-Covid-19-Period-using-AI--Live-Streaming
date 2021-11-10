@@ -2,7 +2,7 @@
 
 <h3 align="left">Introduction</h3>
 
-<p style= 'text-align: justify;'> Due to the COVID-19 restriction nowadays people have to carry baskets to enter the supermarket and they have to wear a mask so that they can enter the supermarket, this restriction is ensured by security. So, to make this process easier, I created a system where, first, it would find a man, and then it would find the mask and the basket. Also, this system will generate a warning based on sound and text if people do not carry a basket or without wearing a mask. Also, it will show the reliability value of the prediction in a live stream. So, if this project is integrated with the door opening system, we can control the automatic route of people for this Covid-19 time...</p>
+<p style= 'text-align: justify;'> Due to the COVID-19 restriction nowadays people have to carry baskets to enter the supermarket and they have to wear a mask so that they can enter the supermarket, this restriction is ensured by security. So, to make this process easier, I created a system where, first, it would find a man, and then it would find the mask and the basket. Also, this system will generate a warning based on sound and text if people do not carry a basket or without wearing a mask. Also, it will show the reliability value of the prediction in a live stream. So, if this project is integrated with the door opening system, we can control the automatic route of people for this Covid-19 time.</p>
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/74568334/123372102-46314c00-d583-11eb-9a6b-efc32d431d92.jpg">
@@ -118,15 +118,12 @@ python mask_basket_detection.py
   <img width="350" src="https://user-images.githubusercontent.com/74568334/123375260-c1493100-d588-11eb-8e85-5cd781ca9162.jpg">
 </p> 
 
-
 <h2 align="left">Project Circumstances</h2>
-
 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/74568334/123377633-8cd77400-d58c-11eb-90ba-c72726623532.jpg">
 </p> 
 
 
-<h4 align="left">In this project, I only collected 900 overall basket images, but in fact, we need to collect more basket images depend on the domain where to be implemented in the system as well as should  focus on different age categories.</h4>
-
+<p style= 'text-align: justify;'> In this project, I only collected 900 overall basket images, but in fact, we need to collect more basket images depend on the domain where to be implemented in the system as well as should  focus on different age categories.</p>
 
