@@ -19,8 +19,11 @@
 <h3 align="left">📁 Data Collection </h3>
 
 <p style= 'text-align: justify;'>This project has done up to 60000 epochs with error 0.09 values.Futher, 3100 images were collected among them 1000 images are without mask, 1200 images are with mask and 900 images are basket.
+  
                     * With Mask: 1200
+  
                     * Without Mask: 1000
+  
                     * Basket: 900
 </p>
 
