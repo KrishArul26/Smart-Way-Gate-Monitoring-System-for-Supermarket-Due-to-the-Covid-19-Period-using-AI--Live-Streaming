@@ -1,5 +1,13 @@
 <h2 align="center"> Smart Way Gate Monitoring System for Supermarket Due to the Covid-19 Period using AI- Live Streaming</h2>
 
+[Purpose](https://github.com/KrishArul26/Smart-Way-Gate-Monitoring-System-for-Supermarket-Due-to-the-Covid-19-Period-using-AI--Live-Streaming.git#purpose)
+
+[Scope](https://github.com/KrishArul26/Smart-Way-Gate-Monitoring-System-for-Supermarket-Due-to-the-Covid-19-Period-using-AI--Live-Streaming.git#scope)
+
+[Work Practice](https://github.com/KrishArul26/Smart-Way-Gate-Monitoring-System-for-Supermarket-Due-to-the-Covid-19-Period-using-AI--Live-Streaming.git#work-practice)
+
+[Daily Briefing](https://github.com/KrishArul26/Smart-Way-Gate-Monitoring-System-for-Supermarket-Due-to-the-Covid-19-Period-using-AI--Live-Streaming.git)
+
 <h3 align="left">Introduction</h3>
 
 <p style= 'text-align: justify;'> Due to the COVID-19 restriction nowadays people have to carry baskets to enter the supermarket and they have to wear a mask so that they can enter the supermarket, this restriction is ensured by security. So, to make this process easier, I created a system where, first, it would find a man, and then it would find the mask and the basket. Also, this system will generate a warning based on sound and text if people do not carry a basket or without wearing a mask. Also, it will show the reliability value of the prediction in a live stream. So, if this project is integrated with the door opening system, we can control the automatic route of people for this Covid-19 time.</p>
